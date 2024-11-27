@@ -1,4 +1,4 @@
-# OOPJ_Tour_Package_Management
+# Voyage Ventures-Tour_Package_Management
 A Tour Package Management Project in Object-Oriented Programming in Java (OOPJ) is designed to simulate the operations of a travel agency. The project incorporates core OOP concepts like classes, objects, inheritance, polymorphism, encapsulation, and abstraction to manage tour packages effectively.
 
 This project is a comprehensive travel booking application designed to simplify the process of planning and booking trips across India. Upon launching the application, users are prompted to select the direction of their travel, with options including North, South, East, and West. Based on their selection, the application dynamically displays a variety of travel packages available in that particular direction.
